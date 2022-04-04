@@ -10,8 +10,8 @@
 
 ## Reach out to me on:
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-round&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhruv-pathak-6ab0a916a//)](https://www.linkedin.com/in/dhruv-pathak-6ab0a916a/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-round&logo=Gmail&logoColor=white&link=mailto:dhruvpathak12@gmail.com)](mailto:dhruvpathak12@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white//)](https://www.linkedin.com/in/dhruv-pathak-6ab0a916a/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvpathak12@gmail.com)
 
 ### Technolgies and Languages :
 
