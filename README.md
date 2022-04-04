@@ -15,23 +15,22 @@
 
 ### Technolgies and Languages :
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-round&logo=Python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-round&logo=javascript)
-![Java](https://img.shields.io/badge/-java-E34A86?style=flat-round&logo=java)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-round&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-round&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-purple?style=flat-round&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-round&logo=mysql)
-![C++](![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=whit)
-![LaTex](https://img.shields.io/badge/-LaTex-green?style=flat-round&logo=LaTex)
-
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https:img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![PHP](https:)
+![MySQL](https:)
+![LaTex](https:)
 ### Libraries & Frameworks :
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-round&logo=react)
 ![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-blue?style=flat-round&logo=django)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-6610f2?style=flat-round&logo=Bootstrap)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### Tools:
 
