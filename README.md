@@ -1,9 +1,13 @@
 # Hi there, I'm Dhruv Pathak 👋 
 
 🎓 B. Tech in Computer Engineering from [NMIMS University, Mumbai.](https://engineering.nmims.edu/)
+
 🌱 I’m currently learning ANYTHING and EVERYTHING.
+
 💻 Coder. Techie.
+
 :art: I love to code, draw and doodle.
+
 😻 Check out my Personal Website: [My Portfolio Website](https://dhruvpathak.netlify.app/)
 
 ---
