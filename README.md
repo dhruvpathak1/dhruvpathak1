@@ -2,7 +2,7 @@
 
 🎓 Masters in Computer Science from [University of Colorado, Boulder, USA.](https://www.colorado.edu/)
 
-🖥️ KPMG India as Associate Consultate in Cyber Defense Stratergy and Governance
+🖥️ Ex-KPMG India Associate Consultant in Cyber Defense Stratergy and Governance
 
 🎓 B. Tech in Computer Engineering from [NMIMS University, Mumbai, India](https://engineering.nmims.edu/)
 
