@@ -10,9 +10,7 @@
 
 💻 Coder. Techie.
 
-:art: I love to code, draw and doodle.
-
-😻 Check out my Personal Website: [My Portfolio Website](https://dhruvpathak.netlify.app/)
+:art: I love to code, draw, travel and play sports.
 
 ---
 
