@@ -1,4 +1,4 @@
-# Hi there, I'm Dhruv Pathak 👋 
+# Hi, I'm Dhruv Pathak 👋 
 
 🎓 Masters in Computer Science from [University of Colorado, Boulder, USA.](https://www.colorado.edu/)
 
