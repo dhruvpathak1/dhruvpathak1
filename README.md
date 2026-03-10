@@ -1,46 +1,104 @@
-# Hi, I'm Dhruv Pathak 👋 
+<div align="center">
+  <h1>Hi, I'm Dhruv Pathak 👋</h1>
+  <h3>Learn. Invest. Grow.</h3>
 
-🎓 Masters in Computer Science from [University of Colorado, Boulder, USA.](https://www.colorado.edu/)
+  <p align="center">
+    <a href="https://dhruvpathak.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" /></a>
+    <a href="https://www.linkedin.com/in/dhruvpathak1/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:connect@dhruvpathak.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  </p>
 
-🖥️ Ex-KPMG, Associate Consultant, CyberSecurity
-
-🎓 B. Tech in Computer Engineering from [NMIMS University, Mumbai, India](https://engineering.nmims.edu/)
-
-:art: I love to code, draw, doodle, travel and play sports.
+  <p align="center">
+    <b>Student Liaison Leader @ AI Collective</b> | <b>Director of Logistics @ HackCU</b><br>
+    <b>MS in Computer Science @ CU Boulder</b> | <b>Ex-KPMG Associate Consultant</b>
+  </p>
+</div>
 
 ---
 
-## Get in touch :
+### 👨‍💻 About Me
 
-[![Website Badge](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://dhruvpathak.com)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white//)](https://www.linkedin.com/in/dhruvpathak1/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhruvpathak2506@gmail.com)
+I am a Cybersecurity enthusiast and Software Developer with a passion for problem-solving and building secure, scalable systems. My experience ranges from engineering data-driven security tools at **KPMG** to leading community outreach and logistics for major tech initiatives at **CU Boulder**.
 
-### 🚀 Skills  
+- 🔭 I’m currently pursuing my **Master's in Computer Science** at the **University of Colorado Boulder**.
+- 🛡️ Specialized in **Cybersecurity, Cloud Security, and Network Defense**.
+- 🚀 Leading logistics for **HackCU** and bridging student-industry gaps at **AI Collective**.
+- 🎾 Outside of tech, I love playing sports, traveling, hiking, and doodling.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Yahoo Finance](https://img.shields.io/badge/Yahoo%20Finance-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![ROS 2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Webots](https://img.shields.io/badge/Webots-654FF0?style=for-the-badge&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
-![ISO 27001/2](https://img.shields.io/badge/ISO%2027001/2-0072C6?style=for-the-badge&logo=security&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+---
 
+### 🛠️ Tech Stack & Skills
+
+#### 💻 Programming & Web Development
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![NodeJs](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+#### 🛡️ Cybersecurity & Infrastructure
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6F00?style=flat-square&logo=burp-suite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![NMap](https://img.shields.io/badge/NMap-41454A?style=flat-square&logo=nmap&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-000000?style=flat-square&logo=metasploit&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/ISO%2027001-0072C6?style=flat-square&logo=security&logoColor=white)
+![NIST](https://img.shields.io/badge/NIST-000000?style=flat-square&logo=nist&logoColor=white)
+
+#### 📊 Data Science & Hardware
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=numpy&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+
+---
+
+### 🎓 Education
+
+- **M.S. in Computer Science** | University of Colorado Boulder (2024 - 2026) | GPA: 3.75/4.0
+- **B.Tech in Computer Engineering** | NMIMS University, Mumbai (2016 - 2020) | GPA: 3.65/4.0
+
+---
+
+### 💼 Experience Highlights
+
+- **Student Liaison Leader** @ AI Collective (CU Boulder)
+- **Director of Logistics** @ HackCU
+- **Associate Consultant / Cyber Analyst** @ KPMG (2022 - 2024)
+- **Security Software Engineer** (Capstone) @ BioCollate
+- **Software Development Intern** @ Baud Resources
+
+---
+
+### 📚 Research & Publications
+
+- **A comprehensive survey on AIoT integrated smart health cities** | *Applied Computational Intelligence and Analysis* (2022)
+- **Role of Various Stakeholders in Application of AI to Forensic Odontology** | *Annals of Dental Specialty* (2021)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dhruvpathak1&show_icons=true&theme=radical" alt="Dhruv's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvpathak1&layout=compact&theme=radical" alt="Top Languages" height="150" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Hard is what makes it great..."</i>
+</p>
