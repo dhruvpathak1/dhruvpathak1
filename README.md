@@ -90,15 +90,6 @@ I am a Cybersecurity enthusiast and Software Developer with a passion for proble
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhruvpathak1&show_icons=true&theme=radical" alt="Dhruv's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvpathak1&layout=compact&theme=radical" alt="Top Languages" height="150" />
-</p>
-
----
-
 <p align="center">
   <i>"Hard is what makes it great..."</i>
 </p>
