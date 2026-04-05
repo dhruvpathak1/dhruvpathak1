@@ -75,7 +75,7 @@ I'm a Graduate from **University of Colorado Boulder** with an **MS in Computer 
 
 #### 💡 [AI Collective](https://www.aicollective.com/chapters/boulder-co) | **Student Liaison Leader**
 - **Strategic Bridge:** Bridging the gap between 30,000+ students and the Boulder AI ecosystem by facilitating high-impact partnerships with local tech firms and research labs.
-- **Event Curation:** Designing and executing thematic panels like "Work Rewired," coordinating with CEOs and professors to provide actionable career insights.
+- **Event Curation:** Designing and executing thematic panels like "Work Rewired and Learning with AI" coordinating with industry professionals and professors to provide actionable career insights.
 - **Chapter Launch:** Pioneered the first AI Collective chapter in Boulder, mobilizing over 50+ attendees for the debut event.
 
 #### 🛠️ [HackCU](https://hackcu.org/) | **Director**
@@ -85,33 +85,11 @@ I'm a Graduate from **University of Colorado Boulder** with an **MS in Computer 
 
 ---
 
-### 🎓 Education
-
-- **M.S. in Computer Science** | University of Colorado Boulder (2024 - 2026) | GPA: 3.75/4.0
-- **B.Tech in Computer Engineering** | NMIMS University, Mumbai (2016 - 2020) | GPA: 3.65/4.0
-
----
-
 ### 💼 Experience Highlights
 
 - **Software Engineer (Capstone)** @ BioCollate (2025 - 2026)
 - **Associate Consultant / Cyber Analyst** @ KPMG (2022 - 2024)
 - **Software Development Intern** @ Baud Resources (2021)
-
----
-
-### 📜 Certifications
-
-- **AZ-900: Microsoft Azure Fundamentals** (2025)
-- **CCNA: Cisco Certified Network Associate** (Pursuing)
-- **Web Development Fundamentals** (University of Michigan)
-
----
-
-### 📚 Research & Publications
-
-- **A comprehensive survey on AIoT integrated smart health cities** | *Applied Computational Intelligence and Analysis* (2022)
-- **Role of Various Stakeholders in Application of AI to Forensic Odontology** | *Annals of Dental Specialty* (2021)
 
 ---
 
