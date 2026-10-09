@@ -72,8 +72,6 @@
 </tr>
 </table>
 
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -141,8 +139,6 @@
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 
 </div>
-
----
 
 ## 🌍 Community & Impact
 
